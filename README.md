@@ -1,4 +1,4 @@
-![Cover](https://github.com/FlorenceCarlin/FlorenceCarlin/img/bretzel-1euro.jpg)
+![Cover](https://github.com/FlorenceCarlin/FlorenceCarlin/blob/main/img/bretzel-1euro.jpg)
 
 <!--
 **FlorenceCarlin/FlorenceCarlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
